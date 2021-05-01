@@ -71,7 +71,7 @@ function App() {
       <div className='header'>
         <h1>Tugas Arsitektur Perangkat Lunak</h1>
         <h3>Sadad Zulfanazhif Pasa (19/444069/TK/49265)</h3>
-        <h3>Alvin Indra Kurniawan (19/******/TK/*****)</h3>
+        <h3>Alvin Indra Kurniawan (19/439808/TK/48538)</h3>
       </div>
       
       <div className='container'>
